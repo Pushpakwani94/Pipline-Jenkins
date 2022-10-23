@@ -8,7 +8,7 @@ import org.testng.annotations.DataProvider;
 import com.mystore.utility.NewExcelLibrary;
 
 /**
- * @author Hitendra
+ * @author Pushpak Wani
  *
  */
 public class DataProviders {
